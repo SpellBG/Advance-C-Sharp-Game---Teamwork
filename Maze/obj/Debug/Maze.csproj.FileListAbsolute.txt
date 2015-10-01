@@ -1,0 +1,9 @@
+G:\Visual Studio Trash\Maze\Maze\bin\Debug\Maze.exe.config
+G:\Visual Studio Trash\Maze\Maze\bin\Debug\Maze.exe
+G:\Visual Studio Trash\Maze\Maze\bin\Debug\Maze.pdb
+G:\Visual Studio Trash\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+G:\Visual Studio Trash\Maze\Maze\obj\Debug\Maze.Maze.resources
+G:\Visual Studio Trash\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+G:\Visual Studio Trash\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+G:\Visual Studio Trash\Maze\Maze\obj\Debug\Maze.exe
+G:\Visual Studio Trash\Maze\Maze\obj\Debug\Maze.pdb
